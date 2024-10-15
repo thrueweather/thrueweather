@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrueweather&label=Profile%20views&color=0e75b6&style=flat" alt="thrueweather" /> </p>
 
-- 🔭 I’m currently working on [Dasmio Post • Match • Chat](https://dasmio.com/)
-
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/thrueweather](https://github.com/thrueweather)
 
 - 💬 Ask me about **UI or something**
